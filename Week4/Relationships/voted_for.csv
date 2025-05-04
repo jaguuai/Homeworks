@@ -1,0 +1,6 @@
+voteId,userId,proposalTitle,voteType,timestamp,delegated,voteWeight
+1,1,"AI in LegalTech: Automated Legal Document Generation",true,2025-06-02T14:30:00Z,false,1.2
+2,2,"AI-Driven Personalized Travel Assistant",false,2025-07-03T10:15:00Z,true,0.8
+3,7,"Predictive Analytics for Passenger Experience Enhancement",true,2025-05-01T16:00:00Z,false,2.5
+4,5,"AI-Based Slot Game Personalization",true,2025-08-02T09:30:00Z,false,1.0
+5,9,"Smart Airport Experience with AI",false,2025-05-10T13:45:00Z,true,1.7
