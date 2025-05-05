@@ -1,9 +1,9 @@
-title,creatorType,creatorId,createdAt,status,voteCount,startDate,endDate,type
-"AI in LegalTech: Automated Legal Document Generation",user,23,2025-05-04,Pending,150,2025-06-01,2025-12-01,Research
-"AI-Driven Personalized Travel Assistant",user,12,2025-05-03,In Progress,300,2025-07-01,2026-01-01,Development
-"Predictive Analytics for Passenger Experience Enhancement",guild,7,2025-04-20,Completed,250,2025-01-15,2025-06-30,Research
-"AI-Based Slot Game Personalization",user,35,2025-05-01,Pending,100,2025-08-01,2025-12-01,Development
-"Smart Airport Experience with AI",guild,9,2025-04-15,In Progress,180,2025-05-01,2025-11-30,Research
-"AI-Enhanced Legal Analysis for Turkish Law",guild,4,2025-05-02,Completed,220,2025-03-01,2025-06-01,Research
-"Blockchain Integration in AI Systems",user,21,2025-04-30,Pending,90,2025-06-15,2025-12-15,Research
-"Real-Time Flight Data with AI Integration",guild,11,2025-05-04,In Progress,350,2025-07-01,2025-12-31,Development
+proposalId,title,creatorType,creatorId,createdAt,status,voteCount,startDate,endDate,type
+1,"AI in LegalTech: Automated Legal Document Generation",user,23,2025-05-04,Pending,150,2025-06-01,2025-12-01,Research
+2,"AI-Driven Personalized Travel Assistant",user,12,2025-05-03,In Progress,300,2025-07-01,2026-01-01,Development
+3,"Predictive Analytics for Passenger Experience Enhancement",guild,7,2025-04-20,Completed,250,2025-01-15,2025-06-30,Research
+4,"AI-Based Slot Game Personalization",user,35,2025-05-01,Pending,100,2025-08-01,2025-12-01,Development
+5,"Smart Airport Experience with AI",guild,9,2025-04-15,In Progress,180,2025-05-01,2025-11-30,Research
+6,"AI-Enhanced Legal Analysis for Turkish Law",guild,4,2025-05-02,Completed,220,2025-03-01,2025-06-01,Research
+7,"Blockchain Integration in AI Systems",user,21,2025-04-30,Pending,90,2025-06-15,2025-12-15,Research
+8,"Real-Time Flight Data with AI Integration",guild,11,2025-05-04,In Progress,350,2025-07-01,2025-12-31,Development

@@ -1,4 +1,4 @@
-typeId,type,exampleUsecase
+tokenTypeId,tokenType,exampleUsecase
 1,Governance Token,Used for voting in DAO decisions
 2,Utility Token,Used as a payment tool in Web3 projects
 3,Security Token,Used as an investment tool in legal tech projects

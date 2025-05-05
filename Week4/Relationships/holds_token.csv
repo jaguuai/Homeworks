@@ -1,92 +1,90 @@
-userId,tokenName,amount,source
-1,DAO Token,1000,Treasury|Staking
-1,Web3 Coin,500,Staking
-1,FlightCoin,800,Treasury|Rewards
-2,GameToken,700,Rewards
-2,LegalTech Token,900,Donations
-3,Slot Game Token,600,Rewards
-3,Blockchain Token,1500,Treasury
-3,Web3 Coin,300,Donations
-4,DAO Token,950,Treasury
-4,Travel Coin,1200,Staking|Rewards
-4,FlightCoin,400,Staking
-5,LegalTech Token,1000,Staking
-5,GameToken,1100,Donations
-5,Blockchain Token,1300,Donations|Rewards
-6,Slot Game Token,500,Treasury
-6,DAO Token,1050,Staking
-7,Web3 Coin,800,Treasury
-7,LegalTech Token,700,Treasury|Rewards
-8,Travel Coin,950,Staking
-8,FlightCoin,1000,Staking|Treasury
-8,GameToken,600,Rewards
-9,Blockchain Token,1400,Staking
-9,Web3 Coin,900,Donations
-10,Slot Game Token,850,Rewards
-10,DAO Token,1200,Staking
-10,LegalTech Token,1100,Treasury
-11,Travel Coin,1150,Treasury
-12,DAO Token,1300,Treasury|Staking
-12,Web3 Coin,600,Staking
-13,FlightCoin,900,Staking
-13,GameToken,850,Rewards
-14,Blockchain Token,1600,Treasury
-15,Slot Game Token,700,Staking|Donations
-16,LegalTech Token,950,Donations
-17,Web3 Coin,1000,Rewards
-18,GameToken,700,Treasury
-19,DAO Token,1400,Staking|Rewards
-19,Blockchain Token,1100,Treasury
-20,Slot Game Token,500,Rewards
-21,DAO Token,1250,Treasury
-21,LegalTech Token,1200,Staking
-22,FlightCoin,1150,Treasury
-23,DAO Token,1000,Staking
-23,Travel Coin,1300,Staking|Donations
-24,Web3 Coin,900,Treasury
-24,Slot Game Token,600,Rewards
-25,GameToken,950,Staking
-26,LegalTech Token,1150,Treasury
-27,DAO Token,1100,Treasury
-28,Web3 Coin,1050,Staking|Rewards
-29,FlightCoin,980,Staking
-30,Blockchain Token,1450,Treasury
-31,Slot Game Token,750,Donations
-32,Travel Coin,1000,Treasury|Staking
-33,GameToken,650,Rewards
-34,LegalTech Token,1200,Treasury|Rewards
-35,DAO Token,950,Staking
-35,Slot Game Token,800,Staking|Rewards
-36,Blockchain Token,1550,Donations
-37,Web3 Coin,1100,Staking
-38,FlightCoin,1025,Treasury
-39,GameToken,700,Staking
-40,Slot Game Token,550,Treasury|Donations
-41,LegalTech Token,1300,Staking
-42,Web3 Coin,975,Donations|Staking
-43,Travel Coin,980,Staking
-44,FlightCoin,860,Staking|Rewards
-45,Blockchain Token,1500,Staking
-46,GameToken,720,Treasury
-47,LegalTech Token,1080,Treasury
-48,Slot Game Token,830,Donations
-guildId,tokenName,amount,source
-1,Web3 Coin,1200,Staking|Treasury
-2,GameToken,950,Rewards
-3,Travel Coin,1100,Treasury
-4,DAO Token,1400,Treasury|Staking
-5,LegalTech Token,1000,Donations
-6,FlightCoin,900,Staking
-7,DAO Token,1300,Treasury
-7,Blockchain Token,1600,Rewards|Donations
-8,Slot Game Token,850,Staking
-9,DAO Token,1250,Treasury
-9,Web3 Coin,1050,Staking
-10,GameToken,700,Rewards
-11,DAO Token,1500,Treasury|Staking
-11,LegalTech Token,1100,Staking|Donations
-12,Travel Coin,950,Staking|Treasury
-13,Blockchain Token,1400,Donations
-14,FlightCoin,980,Staking
-15,Slot Game Token,900,Treasury|Rewards
-
+userId,holderType,tokenId,amount,source
+1,user,1,1000,Treasury|Staking
+1,user,2,500,Staking
+1,user,6,800,Treasury|Rewards
+2,user,4,700,Rewards
+2,user,5,900,Donations
+3,user,8,600,Rewards
+3,user,7,1500,Treasury
+3,user,2,300,Donations
+4,user,1,950,Treasury
+4,user,3,1200,Staking|Rewards
+4,user,6,400,Staking
+5,user,5,1000,Staking
+5,user,4,1100,Donations
+5,user,7,1300,Donations|Rewards
+6,user,8,500,Treasury
+6,user,1,1050,Staking
+7,user,2,800,Treasury
+7,user,5,700,Treasury|Rewards
+8,user,3,950,Staking
+8,user,6,1000,Staking|Treasury
+8,user,4,600,Rewards
+9,user,7,1400,Staking
+9,user,2,900,Donations
+10,user,8,850,Rewards
+10,user,1,1200,Staking
+10,user,5,1100,Treasury
+11,user,3,1150,Treasury
+12,user,1,1300,Treasury|Staking
+12,user,2,600,Staking
+13,user,6,900,Staking
+13,user,4,850,Rewards
+14,user,7,1600,Treasury
+15,user,8,700,Staking|Donations
+16,user,5,950,Donations
+17,user,2,1000,Rewards
+18,user,4,700,Treasury
+19,user,1,1400,Staking|Rewards
+19,user,7,1100,Treasury
+20,user,8,500,Rewards
+21,user,1,1250,Treasury
+21,user,5,1200,Staking
+22,user,6,1150,Treasury
+23,user,1,1000,Staking
+23,user,3,1300,Staking|Donations
+24,user,2,900,Treasury
+24,user,8,600,Rewards
+25,user,4,950,Staking
+26,user,5,1150,Treasury
+27,user,1,1100,Treasury
+28,user,2,1050,Staking|Rewards
+29,user,6,980,Staking
+30,user,7,1450,Treasury
+31,user,8,750,Donations
+32,user,3,1000,Treasury|Staking
+33,user,4,650,Rewards
+34,user,5,1200,Treasury|Rewards
+35,user,1,950,Staking
+35,user,8,800,Staking|Rewards
+36,user,7,1550,Donations
+37,user,2,1100,Staking
+38,user,6,1025,Treasury
+39,user,4,700,Staking
+40,user,8,550,Treasury|Donations
+41,user,5,1300,Staking
+42,user,2,975,Donations|Staking
+43,user,3,980,Staking
+44,user,6,860,Staking|Rewards
+45,user,7,1500,Staking
+46,user,4,720,Treasury
+47,user,5,1080,Treasury
+48,user,8,830,Donations
+1,guild,2,1200,Staking|Treasury
+2,guild,4,950,Rewards
+3,guild,3,1100,Treasury
+4,guild,1,1400,Treasury|Staking
+5,guild,5,1000,Donations
+6,guild,6,900,Staking
+7,guild,1,1300,Treasury
+7,guild,7,1600,Rewards|Donations
+8,guild,8,850,Staking
+9,guild,1,1250,Treasury
+9,guild,2,1050,Staking
+10,guild,4,700,Rewards
+11,guild,1,1500,Treasury|Staking
+11,guild,5,1100,Staking|Donations
+12,guild,3,950,Staking|Treasury
+13,guild,7,1400,Donations
+14,guild,6,980,Staking
+15,guild,8,900,Treasury|Rewards
