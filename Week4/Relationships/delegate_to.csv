@@ -1,4 +1,4 @@
-delegationId,delegatorId,delegateeId,delegatorType,delegateeType,since,weight,reason,isActive
-1,2,1,user,user,2025-01-01T00:00:00Z,0.6,"Trusted advisor",true
-2,5,9,user,guild,2025-02-15T00:00:00Z,1.0,"Guild leadership",true
-3,7,3,user,user,2024-12-01T00:00:00Z,0.8,"Technical expertise",false
+delegatorId,delegateeId,delegatorType,delegateeType,since,weight,reason,isActive
+2,1,user,user,2025-01-01T00:00:00Z,0.6,"Trusted advisor",true
+5,9,user,guild,2025-02-15T00:00:00Z,1.0,"Guild leadership",true
+7,3,user,user,2024-12-01T00:00:00Z,0.8,"Technical expertise",false
