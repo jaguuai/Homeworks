@@ -5,13 +5,13 @@ Created on Tue May 20 09:32:34 2025
 @author: alice
 """
 
-import os
-import csv
+# Built-in and external modules
 
-from openai import OpenAI
-from neo4j import GraphDatabase
-
-from dotenv import load_dotenv
+import os             # For accessing environment variables and file paths
+import csv            # To write and read CSV files
+from openai import OpenAI          # To connect to OpenAI's embedding API
+from neo4j import GraphDatabase    # To connect and query the Neo4j graph database
+from dotenv import load_dotenv     #To load sensitive config values from a .env file
 
 #Load environment variables from a specific .env file
 load_dotenv(dotenv_path="C:/Users/alice/OneDrive/Masaüstü/LangChainIntrudiction/neo4j.env")
