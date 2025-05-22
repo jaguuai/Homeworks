@@ -1,4 +1,4 @@
-# Decentralized Gaming DAO Governance Analysis 🔗🎮
+# Decentralized Gaming DAO Governance Analysis 
 
 Welcome to my repository exploring **decentralized governance mechanisms in gaming DAOs** using graph databases, AI, and blockchain technologies.
 
